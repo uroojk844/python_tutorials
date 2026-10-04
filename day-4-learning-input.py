@@ -1,0 +1,11 @@
+# print("Sum of 2 numbers")
+# number1 = input("Enter first number: ")
+# number2 = input("Enter second number: ")
+# result = float(number1) + float(number2)
+# print(f"Sum is {result}")
+
+print("Mutiplication of 2 numbers")
+number1 = input("Enter first number: ")
+number2 = input("Enter second number: ")
+result = float(number1) * float(number2)
+print(f"Multiplication is {result}")
